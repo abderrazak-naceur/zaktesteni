@@ -1,0 +1,8 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/ec5dbff5-4fc4-43f1-b234-3d7b08fe4992/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/enitestzak",
+  "appService.deploySubpath": "",
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ]
+}
